@@ -2,6 +2,7 @@
 # define ETABLE_HPP
 
 # include <QMainWindow>
+# include "Spreadsheet.hpp"
 
 class QAction;
 class QLabel;
