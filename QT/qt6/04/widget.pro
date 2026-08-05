@@ -1,6 +1,6 @@
 TARGET		= widget
 
-QT		+= widgets
+QT			+= widgets
 
 SOURCES		+= source/main.cpp	\
 		source/widget.cpp
